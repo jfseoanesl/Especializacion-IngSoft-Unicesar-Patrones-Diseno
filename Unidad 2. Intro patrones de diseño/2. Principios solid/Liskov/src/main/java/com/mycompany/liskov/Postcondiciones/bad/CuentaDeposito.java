@@ -10,7 +10,6 @@ package com.mycompany.liskov.Postcondiciones.bad;
  * @author JAIRO
  */
 public class CuentaDeposito extends CuentaBancaria {
-    private static  final double EMBARGO = 100;
     public CuentaDeposito(double saldo) {
         super(saldo);
     }
