@@ -33,6 +33,13 @@ public class Pedido {
         this.pais = pais;
     }
 
+    public String getEstado() {
+        return estado;
+    }
+
+    public void setEstado(String estado) {
+        this.estado = estado;
+    }
 
     public double getTotalPedido(){
 
@@ -44,21 +51,5 @@ public class Pedido {
          return total+=total* ProcesadorImpuesto.getTasaImpuesto(pais, estado);
 
     }
-
-    /*
-    public double getTasaImpuesto(){
-        if(this.pais.equals("US")){
-            return 0.07;
-        }
-        else if(this.pais.equals("EU")){
-
-            return 0.05;
-
-        }
-        else {
-            return  0.03;
-        }
-    }
-    */
 
 }
