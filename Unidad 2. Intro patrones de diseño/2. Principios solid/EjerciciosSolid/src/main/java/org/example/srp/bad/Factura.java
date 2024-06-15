@@ -1,4 +1,4 @@
-package org.example.srp;
+package org.example.srp.bad;
 
 import java.util.List;
 

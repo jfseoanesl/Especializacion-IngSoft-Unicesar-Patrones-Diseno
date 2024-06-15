@@ -1,4 +1,4 @@
-package org.example.srp;
+package org.example.srp.bad;
 
 public class Libro {
     private String nombre;
