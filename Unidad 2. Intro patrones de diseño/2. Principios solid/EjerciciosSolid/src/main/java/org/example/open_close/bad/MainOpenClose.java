@@ -1,7 +1,4 @@
-package org.example.open_close;
-
-import org.example.open_close.Factura;
-import org.example.open_close.Libro;
+package org.example.open_close.bad;
 
 public class MainOpenClose {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.open_close;
+package org.example.open_close.bad;
 
 public class Libro {
     private String nombre;

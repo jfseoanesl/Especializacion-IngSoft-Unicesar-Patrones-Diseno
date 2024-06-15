@@ -4,15 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e281e46-45f6-494a-a5d9-0584453fcdd8" name="Changes" comment="" />
+    <list default="true" id="1e281e46-45f6-494a-a5d9-0584453fcdd8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/bad/Factura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/bad/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/MainOpenClose.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/bad/MainOpenClose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/PersistenciaFactura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/bad/PersistenciaFactura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/TipoPersistencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/bad/TipoPersistencia.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2hsbAnYBJY9qSjKCg9IA1ZBipIo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,8 +31,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "G:/Mi unidad/Universidad Popular del Cesar/Especializacion Ingenieria de software - Unicesar/GitHub/2. Principios solid/Liskov"
+    "last_opened_file_path": "C:/IngSoft/Unidad 2. Intro patrones de diseño/2. Principios solid/OpenClosed"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

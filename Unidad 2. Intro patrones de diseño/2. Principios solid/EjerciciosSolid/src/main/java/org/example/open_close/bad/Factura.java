@@ -1,6 +1,4 @@
-package org.example.open_close;
-
-import java.util.List;
+package org.example.open_close.bad;
 
 public class Factura {
 
@@ -26,15 +24,15 @@ public class Factura {
         return precioConImpuestos;
     }
 
-    public void imprimeFactura() {
-        System.out.println(cantidad + " x " + libro.getNombre() + " * $" +          libro.getPrecio() );
-        System.out.println("Tasa de Descuento: " + tasaDescuento);
-        System.out.println("Tasa de Impuesto: " + tasaImpuesto);
-        System.out.println("Total: " + total);
-    }
+//    public void imprimeFactura() {
+//        System.out.println(cantidad + " x " + libro.getNombre() + " * $" +          libro.getPrecio() );
+//        System.out.println("Tasa de Descuento: " + tasaDescuento);
+//        System.out.println("Tasa de Impuesto: " + tasaImpuesto);
+//        System.out.println("Total: " + total);
+//    }
 
-    public void guardarArchivo(List<Factura> archivo) {
-        archivo.add(this);
-    }
+//    public void guardarArchivo(List<Factura> archivo) {
+//        archivo.add(this);
+//    }
 
 }

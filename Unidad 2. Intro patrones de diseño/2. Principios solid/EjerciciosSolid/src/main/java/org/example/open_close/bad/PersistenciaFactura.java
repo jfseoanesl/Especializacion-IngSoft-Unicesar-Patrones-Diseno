@@ -1,6 +1,4 @@
-package org.example.open_close;
-
-import org.example.open_close.Factura;
+package org.example.open_close.bad;
 
 import java.util.ArrayList;
 import java.util.HashMap;
