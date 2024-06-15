@@ -10,9 +10,5 @@
         <module name="JerarquiaEmpleados" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CatalogoZapatos" target="1.8" />
-      <module name="JerarquiaEmpleados" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>

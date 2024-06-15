@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/1.1. Encapsula lo que varia.iml" filepath="$PROJECT_DIR$/.idea/1.1. Encapsula lo que varia.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CostoTotalDePedido/CostoTotalDePedido.iml" filepath="$PROJECT_DIR$/CostoTotalDePedido/CostoTotalDePedido.iml" />
     </modules>
   </component>
 </project>

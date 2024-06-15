@@ -9,8 +9,5 @@
         <module name="CostoTotalDePedido" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CostoTotalDePedido" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>
