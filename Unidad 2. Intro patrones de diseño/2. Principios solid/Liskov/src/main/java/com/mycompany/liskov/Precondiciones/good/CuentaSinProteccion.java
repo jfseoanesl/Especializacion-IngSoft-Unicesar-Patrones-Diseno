@@ -2,15 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.liskov.Precondiciones.bad;
+package com.mycompany.liskov.Precondiciones.good;
 
 /**
  *
  * @author JAIRO
  */
-public class CuentaProtegida extends CuentaBancaria {
+public class CuentaSinProteccion extends CuentaBancaria {
     
-    public CuentaProtegida(double saldo) {
+    public CuentaSinProteccion(double saldo) {
         super(saldo);
     }
 
@@ -18,10 +18,8 @@ public class CuentaProtegida extends CuentaBancaria {
     public void retirar(double monto) {
         if(this.getSaldo() < monto )
             throw new IllegalArgumentException("saldo insuficiente");
-        if(monto>=500)
-            throw new IllegalArgumentException("monto no permitido");
-        
-        super.retirar(monto); //To change body of generated methods, choose Tools | Templates.
+
+        this.setSaldo(this.getSaldo()-monto);
     }
     
     

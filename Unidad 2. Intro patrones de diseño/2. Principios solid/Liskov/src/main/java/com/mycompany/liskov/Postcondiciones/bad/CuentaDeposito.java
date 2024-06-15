@@ -17,10 +17,7 @@ public class CuentaDeposito extends CuentaBancaria {
     public CuentaDeposito() {
     }
 
-    @Override
-    public void retirar(double monto) {
-        this.setSaldo(this.getSaldo()-0);
-    }
+
 
     
     

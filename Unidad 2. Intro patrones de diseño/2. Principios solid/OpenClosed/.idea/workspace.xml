@@ -5,11 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e281e46-45f6-494a-a5d9-0584453fcdd8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/bad/Factura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/bad/Libro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/MainOpenClose.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/bad/MainOpenClose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/PersistenciaFactura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/bad/PersistenciaFactura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/TipoPersistencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosSolid/src/main/java/org/example/open_close/bad/TipoPersistencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/src/main/java/com/mycompany/liskov/Postcondiciones/bad/CuentaDeposito.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov/src/main/java/com/mycompany/liskov/Postcondiciones/bad/CuentaDeposito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/src/main/java/com/mycompany/liskov/Precondiciones/bad/CuentaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov/src/main/java/com/mycompany/liskov/Precondiciones/bad/CuentaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/src/main/java/com/mycompany/liskov/Precondiciones/bad/CuentaProtegida.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov/src/main/java/com/mycompany/liskov/Precondiciones/bad/CuentaProtegida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/src/main/java/com/mycompany/liskov/Precondiciones/bad/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov/src/main/java/com/mycompany/liskov/Precondiciones/bad/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Postcondiciones/bad/CuentaBancaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Postcondiciones/bad/CuentaBancaria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Postcondiciones/bad/CuentaDeposito.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Postcondiciones/bad/CuentaDeposito.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Postcondiciones/bad/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Postcondiciones/bad/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Postcondiciones/good/CuentaBancaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Postcondiciones/good/CuentaRetirable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Postcondiciones/good/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Precondiciones/bad/CuentaBancaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Precondiciones/bad/CuentaBancaria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Precondiciones/bad/CuentaProtegida.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Precondiciones/bad/CuentaProtegida.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Precondiciones/bad/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Precondiciones/bad/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Precondiciones/good/CuentaBancaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Precondiciones/good/CuentaBancaria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Precondiciones/good/CuentaLibre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Precondiciones/good/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov/target/classes/com/mycompany/liskov/Precondiciones/good/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/IngSoft/Unidad 2. Intro patrones de diseño/2. Principios solid/OpenClosed"
+    "last_opened_file_path": "C:/IngSoft/Unidad 2. Intro patrones de diseño/2. Principios solid/SegregacionDeInterfaces"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
