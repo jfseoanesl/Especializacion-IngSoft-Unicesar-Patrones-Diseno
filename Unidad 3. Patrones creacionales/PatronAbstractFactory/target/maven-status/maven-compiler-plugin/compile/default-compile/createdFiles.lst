@@ -1,0 +1,13 @@
+com\mycompany\patronabstractfactory\AutomovilGasolina.class
+com\mycompany\patronabstractfactory\FactoryVehiculo$1.class
+com\mycompany\patronabstractfactory\IScooter.class
+com\mycompany\patronabstractfactory\ScooterGasolina.class
+com\mycompany\patronabstractfactory\IAutomovil.class
+com\mycompany\patronabstractfactory\Main.class
+com\mycompany\patronabstractfactory\FactoryVehiculoGasolina.class
+com\mycompany\patronabstractfactory\AbstractFactoryVehiculo.class
+com\mycompany\patronabstractfactory\FactoryVehiculo.class
+com\mycompany\patronabstractfactory\AutomovilElectrico.class
+com\mycompany\patronabstractfactory\ScooterElectrica.class
+com\mycompany\patronabstractfactory\FactoryVehiculoType.class
+com\mycompany\patronabstractfactory\FactoryVehiculoElectrico.class

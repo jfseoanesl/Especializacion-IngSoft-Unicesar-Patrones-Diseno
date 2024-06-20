@@ -1,0 +1,5 @@
+com\mycompany\patronprototype\prototype\IPrototype.class
+com\mycompany\patronprototype\prototype\ListaPrecio.class
+com\mycompany\patronprototype\prototype\Main.class
+com\mycompany\patronprototype\prototype\PrototypeFactory.class
+com\mycompany\patronprototype\prototype\Producto.class
