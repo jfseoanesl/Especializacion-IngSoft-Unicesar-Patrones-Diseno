@@ -18,9 +18,9 @@ public class FactoryCliente {
         return new ClienteContado();
     }
     
-    public static Cliente crearCliente(TipoCliente tipo){
+    public static Cliente crearCliente(FormaPago formaPago){
         Cliente cliente=null;
-        switch(tipo){
+        switch(formaPago){
             case CONTADO: cliente= crearClienteContado();break;
             case CREDITO: cliente= crearClienteCredito();
         }
@@ -28,7 +28,7 @@ public class FactoryCliente {
     }
     
     public static Cliente crearClienteDefault(){
-        return crearClienteContado();
+        return crearCliente(FormaPago.CONTADO);
     }
     
     

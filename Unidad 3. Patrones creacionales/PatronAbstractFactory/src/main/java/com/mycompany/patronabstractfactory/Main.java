@@ -15,8 +15,17 @@ public class Main {
         AbstractFactoryVehiculo factoryGasolina = FactoryVehiculo.getFactoryVehiculo(FactoryVehiculoType.GASOLINA);
         IAutomovil automovilGasolina = factoryGasolina.crearAutomovil();
         System.out.println(automovilGasolina.getInfoAutomovil());
+
         IScooter scooterGasolina = factoryGasolina.crearScooter();
         System.out.println(scooterGasolina.getInfoScooter());
+
+        AbstractFactoryVehiculo factoryElectricos = FactoryVehiculo.getFactoryVehiculo(FactoryVehiculoType.ELECTRICO);
+        IAutomovil auto = factoryElectricos.crearAutomovil();
+        System.out.println(auto.getInfoAutomovil());
+        IScooter scooter = factoryElectricos.crearScooter();
+        System.out.println(scooter.getInfoScooter());
+
+
         
     }
 }

@@ -12,8 +12,8 @@ public class Main {
     public static void main(String[] args) {
         
         Empleado empleado = new Empleado.EmpleadoBuilder()
-                .cargo("docente", 3000)
                 .direccion("valledupar", "sabanas")
+                .cargo("docente", 3000)
                 .edad(30)
                 .nombre("jairo")
                 .id("12345")

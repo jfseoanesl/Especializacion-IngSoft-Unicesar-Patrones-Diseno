@@ -8,6 +8,6 @@ package com.mycompany.patronfactorymethod.good;
  *
  * @author JAIRO
  */
-public enum TipoCliente {
+public enum FormaPago {
     CREDITO, CONTADO
 }

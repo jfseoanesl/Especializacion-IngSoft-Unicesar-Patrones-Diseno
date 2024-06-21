@@ -13,10 +13,10 @@ public class Main {
         
         
         
-        String tipoCliente="credito";
+        String formaDePago="credito";
 
         Cliente cliente;
-        if(tipoCliente.equals("crediito")){
+        if(formaDePago.equals("crediito")){
              cliente = new ClienteCredito();
         }else{
             cliente = new ClienteContado();

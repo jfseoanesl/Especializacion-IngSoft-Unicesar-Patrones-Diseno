@@ -4,15 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="178f4a0e-5484-4e79-8aab-476a8e5abf48" name="Changes" comment="" />
+    <list default="true" id="178f4a0e-5484-4e79-8aab-476a8e5abf48" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PatronFactoryMethod/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronAbstractFactory/src/main/java/com/mycompany/patronabstractfactory/FactoryVehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronAbstractFactory/src/main/java/com/mycompany/patronabstractfactory/FactoryVehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronAbstractFactory/src/main/java/com/mycompany/patronabstractfactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronAbstractFactory/src/main/java/com/mycompany/patronabstractfactory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronAbstractFactory/target/classes/com/mycompany/patronabstractfactory/FactoryVehiculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronAbstractFactory/target/classes/com/mycompany/patronabstractfactory/FactoryVehiculo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronAbstractFactory/target/classes/com/mycompany/patronabstractfactory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronAbstractFactory/target/classes/com/mycompany/patronabstractfactory/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronFactoryMethod/src/main/java/com/mycompany/patronfactorymethod/bad/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronFactoryMethod/src/main/java/com/mycompany/patronfactorymethod/bad/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronFactoryMethod/src/main/java/com/mycompany/patronfactorymethod/good/FactoryCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronFactoryMethod/src/main/java/com/mycompany/patronfactorymethod/good/FactoryCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronFactoryMethod/src/main/java/com/mycompany/patronfactorymethod/good/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronFactoryMethod/src/main/java/com/mycompany/patronfactorymethod/good/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronFactoryMethod/src/main/java/com/mycompany/patronfactorymethod/good/TipoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronFactoryMethod/src/main/java/com/mycompany/patronfactorymethod/good/FormaPago.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronFactoryMethod/target/classes/com/mycompany/patronfactorymethod/bad/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronFactoryMethod/target/classes/com/mycompany/patronfactorymethod/bad/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronFactoryMethod/target/classes/com/mycompany/patronfactorymethod/good/FactoryCliente$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronFactoryMethod/target/classes/com/mycompany/patronfactorymethod/good/FactoryCliente$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronFactoryMethod/target/classes/com/mycompany/patronfactorymethod/good/FactoryCliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronFactoryMethod/target/classes/com/mycompany/patronfactorymethod/good/FactoryCliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronFactoryMethod/target/classes/com/mycompany/patronfactorymethod/good/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronFactoryMethod/target/classes/com/mycompany/patronfactorymethod/good/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronFactoryMethod/target/classes/com/mycompany/patronfactorymethod/good/TipoCliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/patronsingleton/ConfiguracionSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/patronsingleton/ConfiguracionSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/patronsingleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/patronsingleton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/patronsingleton/ConfiguracionSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/patronsingleton/ConfiguracionSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/patronsingleton/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/patronsingleton/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2iABQUWjXJ67d97We5GJ2RAzJ4n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,12 +44,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "G:/Mi unidad/Universidad Popular del Cesar/Especializacion Ingenieria de software - Unicesar/GitHub/3. Patrones creacionales/PatronSingleton"
+    "last_opened_file_path": "C:/IngSoft/Unidad 3. Patrones creacionales/PatronBuilder"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.patronsingleton.Main" />
+      <module name="PatronSingleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.patronsingleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

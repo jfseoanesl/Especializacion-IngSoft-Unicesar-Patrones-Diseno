@@ -20,7 +20,7 @@ public class PrototypeFactory {
     };
     
     public static IPrototype getPrototype(String name){
-        return (IPrototype)prototypes.get(name).deepClone();
+        return (IPrototype) prototypes.get(name).deepClone();
     }
     
 }

@@ -11,8 +11,11 @@ package com.mycompany.patronfactorymethod.good;
 public class Main {
     public static void main(String[] args) {
         
-        Cliente cliente = FactoryCliente.crearCliente(TipoCliente.CREDITO);
+        Cliente cliente = FactoryCliente.crearCliente(FormaPago.CREDITO);
         System.out.println(cliente.crearPedido());
+
+        Cliente clienteDefault = FactoryCliente.crearClienteDefault();
+        System.out.println(clienteDefault.crearPedido());
         
     }
 }

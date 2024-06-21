@@ -8,7 +8,7 @@ package com.mycompany.patronprototype.prototype;
  *
  * @author JAIRO
  */
-public interface IPrototype<T extends IPrototype> extends Cloneable {
+public interface IPrototype<T> extends Cloneable {
     
     T clone();
     T deepClone();

@@ -32,6 +32,7 @@ public class ConfiguracionSingleton {
             crearInstancia();
         }
         return getSingleton();
+
     }
 
     /**

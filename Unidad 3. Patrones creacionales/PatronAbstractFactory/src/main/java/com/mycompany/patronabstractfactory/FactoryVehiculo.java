@@ -20,7 +20,7 @@ public class FactoryVehiculo {
         return factory;
     }
     
-    public static AbstractFactoryVehiculo getFactoryvehiculoDefault(){
+    public static AbstractFactoryVehiculo getFactoryvehiculo(){
         return getFactoryVehiculo(FactoryVehiculoType.GASOLINA);
     }
     
