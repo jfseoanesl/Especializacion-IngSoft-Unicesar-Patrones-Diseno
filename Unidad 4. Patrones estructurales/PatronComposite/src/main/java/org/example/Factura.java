@@ -31,7 +31,7 @@ public class Factura {
 
         StringBuilder itemsFacturaInfo = new StringBuilder();
         for(ProductoAbstracto p: this.itemsFactura){
-            itemsFacturaInfo.append(p.datosProducto()).append("\n");
+            itemsFacturaInfo.append(p.getDatosProducto()).append("\n");
         }
 
         return "Factura{\n\n" +

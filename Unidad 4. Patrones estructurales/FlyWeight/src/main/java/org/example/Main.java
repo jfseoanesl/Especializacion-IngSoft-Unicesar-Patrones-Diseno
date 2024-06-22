@@ -7,7 +7,7 @@ import java.util.Random;
 public class Main {
 
     private static final String[] songNames = new String[10];
-    private static final String[] playListNames = new String[402];
+    private static final String[] playListNames = new String[5000];
     private static final List<PlayList> playLists = new ArrayList<>();
 
     public static void main(String[] args) {

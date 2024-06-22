@@ -9,7 +9,7 @@ public class DefaultMessageEncrypt implements IMessageEncrypt{
     private IEncryptAlgorithm encryptAlgorithm;
 
     public DefaultMessageEncrypt() {
-        this.encryptAlgorithm = new DesEncryptAlgorithm();
+        this.encryptAlgorithm = new AesEncryptAlgorithm();
     }
 
     @Override

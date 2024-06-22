@@ -14,8 +14,8 @@ public class Main {
     public static String encryptMessage(String msg) throws Exception {
 
         String password = "jairoseoanesleon";
-        DesEncryptAlgorithm des = new DesEncryptAlgorithm();
-        return des.encrypt(msg, password);
+        NoEncryptAlgorithm des = new NoEncryptAlgorithm();
+        return des.encryptMsg(msg, password);
 
     }
 }

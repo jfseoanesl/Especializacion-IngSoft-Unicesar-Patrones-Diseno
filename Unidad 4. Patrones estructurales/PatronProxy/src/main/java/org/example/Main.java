@@ -10,9 +10,11 @@ public class Main {
         UrlAccessService.addRestrictedUrl("http://facebook.com/*");
         UrlAccessService.addRestrictedUrl("http://youtube.com/*");
 
+
         IServer server = FactoryServer.createServer("127.0.0.0", 80);
-        server.download("http://3x.com/");
-        server.download("http://3x.com/");
+        server.download("http://unicesar.edu.co");
+        server.download("http://unicesar.edu.co");
+        server.download("http://3x.com/*");
 
 
     }

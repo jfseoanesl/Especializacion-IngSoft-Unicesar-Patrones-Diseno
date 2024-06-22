@@ -10,6 +10,7 @@ public class PlayItemFactory {
     public static int totalCreadas = 0;
     public static final Map<String, ItemPlayList> ITEM_PLAY_LIST= new HashMap<>();
     private static Long idSequence=0L;
+
     public static ItemPlayList createItemPlayList(String songName){
         if(enableFlyWeight && ITEM_PLAY_LIST.containsKey(songName)){
             totalCompartidas++;
